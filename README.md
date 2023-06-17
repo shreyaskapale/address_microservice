@@ -5,7 +5,7 @@ This is an API for managing addresses using FastAPI.
 
 ## Folder Structure
     /apis/ versioning - where apis are defined 
-    /repository - for SQLalchemy ORM
+    /repository - for SQLalchemy ORM for Address for db transactions
     /bloc - business logic layer, where logic level processing takes place
     /enums - for types KM / Miles for distance based address fetching
     /errors - for defining errors for api
