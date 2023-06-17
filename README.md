@@ -25,6 +25,9 @@ uvicorn app:app --reload
 
 The API will be accessible at `http://localhost:8000`.
 
+Swagger DOCS will be accessible at `http://localhost:8000/docs`.
+
+
 ## API Endpoints
 
 ### Create a New Address
