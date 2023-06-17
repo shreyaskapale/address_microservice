@@ -1,6 +1,6 @@
 Sure! Here's a generated GitHub README for the provided code:
 
-# Address Bloc API
+# Address Microservice
 
 This is an API for managing addresses using FastAPI.
 
