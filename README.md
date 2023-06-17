@@ -3,6 +3,18 @@
 
 This is an API for managing addresses using FastAPI.
 
+## Folder Structure
+    /apis/ versioning - where apis are defined 
+    /repository - for SQLalchemy ORM
+    /bloc - business logic layer, where logic level processing takes place
+    /enums - for types KM / Miles for distance based address fetching
+    /errors - for defining errors for api
+    /middleware - for defining auth and logging
+    /models - for storing pydantic models for address
+    /models/input - for defining models which are for api inputs
+    /modles/output -for defining models which are for response outputs from api
+    
+
 ## Installation
 
 1. Clone the repository:
